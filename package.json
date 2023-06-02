@@ -1,6 +1,6 @@
 {
   "name": "@arekusunaito/node-typescript-egg",
-  "version": "1.0",
+  "version": "1.0.0",
   "author": "ArekusuNaito",
   "description": "A repository to quickly start with `node+typescript` projects",
   "main": "dist/index.js",
@@ -15,6 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/ArekusuNaito/node-typescript-esbuild-egg.git"
   },
+  "types": "dist/index.d.ts",
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
